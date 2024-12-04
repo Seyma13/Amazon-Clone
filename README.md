@@ -1,4 +1,4 @@
-# 🎥 [Amazon Clone] - Amazon E-ticaret Sitesi 
+# 🛒 [Amazon Clone] - Amazon E-ticaret Sitesi 
 
 ## 📂 Proje İçeriği  
  Kullanılan teknolojiler:  
